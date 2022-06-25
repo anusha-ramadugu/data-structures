@@ -41,7 +41,7 @@ public class QueueTest
     public void DequeueUnderflow()
     {
         var queue = new Queue<int>();
-        //should throw queue underflow error
+        
         var err = Assert.Throws<QueueUnderFlowException>(() => queue.Dequeue());
         Assert.Equal("Queue is empty can not delete item.", err.Message);
     }
