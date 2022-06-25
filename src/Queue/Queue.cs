@@ -16,7 +16,7 @@ public class Queue<T> : IQueue<T>
     {
         if (initialCapacity <= 0)
         {
-            throw new ArgumentOutOfRangeException(nameof(initialCapacity), "value must be greater than 0");
+            throw new ArgumentOutOfRangeException(nameof(initialCapacity), "value must be greater than 0.");
         }
         _items = new T[initialCapacity];
         _size = 0;
@@ -38,9 +38,16 @@ public class Queue<T> : IQueue<T>
     
     public T Dequeue()
     {
-        throw new NotImplementedException();
+        if (_size == 0)
+        {
+            throw new Exception("Queue is empty can not delete item");
+        }
+
+        var item = _items[_front];
+        _front++;
+        _size--;
+        return item;
     }
-
-
+    
     public bool IsEmpty() => Count == 0;
 }

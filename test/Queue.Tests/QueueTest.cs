@@ -20,7 +20,8 @@ public class QueueTest
     [Fact]
     public void ThrowErrorIfNegativeNumbersPassed()
     {
-        Assert.Throws<ArgumentOutOfRangeException>(() => new Queue<int>(-10));
+        var ex = Assert.Throws<ArgumentOutOfRangeException>(() => new Queue<int>(-10));
+       // Assert.Equal("value must be greater than 0.", ex.Message);
     }
     
     [Fact]
@@ -39,7 +40,6 @@ public class QueueTest
     public void DequeueUnderflow()
     {
         var queue = new Queue<int>();
-        queue.Dequeue();
         //should throw queue underflow error
         Assert.Throws<Exception>(() => queue.Dequeue());
     }
