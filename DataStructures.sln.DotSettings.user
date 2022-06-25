@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=06b8116d_002Dc2e2_002D4386_002Dbd86_002D3b0457ddc99a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StackLengthMustBeEqualToNumberOfElementsPushed #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::BF0D764A-2DA6-4199-8134-B499F0511D04::net6.0::Stack.Tests.StackTest.StackLengthMustBeEqualToNumberOfElementsPushed&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BF0D764A-2DA6-4199-8134-B499F0511D04::net6.0::Stack.Tests.StackTest.PushArray&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.UnitTest1.Dequeue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.UnitTest1.Enqueue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.UnitTest1.DequeueUnderflow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=55f42ebb_002D5ca0_002D453f_002D9fcf_002Df9b5312072b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StackLengthMustBeEqualToNumberOfElementsPushed" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::BF0D764A-2DA6-4199-8134-B499F0511D04::net6.0::Stack.Tests.StackTest.StackLengthMustBeEqualToNumberOfElementsPushed&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.QueueTest.Enqueue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c6d25de6_002Deb37_002D48b4_002Da83b_002Db4012796579c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Enqueue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.QueueTest.Enqueue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.QueueTest.Dequeue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.QueueTest.ThrowErrorIfNegativeNumbersPassed&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BD1E2687-D8F5-4678-A438-D535D463A9F1::net6.0::Queue.Tests.QueueTest.DequeueUnderflow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

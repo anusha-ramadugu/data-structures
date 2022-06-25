@@ -1,0 +1,15 @@
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/bin/Debug/net6.0/Queue
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/bin/Debug/net6.0/Queue.deps.json
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/bin/Debug/net6.0/Queue.runtimeconfig.json
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/bin/Debug/net6.0/Queue.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/bin/Debug/net6.0/ref/Queue.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/bin/Debug/net6.0/Queue.pdb
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.csproj.AssemblyReference.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.AssemblyInfoInputs.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.AssemblyInfo.cs
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.csproj.CoreCompileInputs.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/ref/Queue.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.pdb
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Queue/obj/Debug/net6.0/Queue.genruntimeconfig.cache

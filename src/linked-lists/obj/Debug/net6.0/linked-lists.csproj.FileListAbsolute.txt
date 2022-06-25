@@ -1,0 +1,15 @@
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/bin/Debug/net6.0/linked-lists
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/bin/Debug/net6.0/linked-lists.deps.json
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/bin/Debug/net6.0/linked-lists.runtimeconfig.json
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/bin/Debug/net6.0/linked-lists.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/bin/Debug/net6.0/ref/linked-lists.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/bin/Debug/net6.0/linked-lists.pdb
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.csproj.AssemblyReference.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.AssemblyInfoInputs.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.AssemblyInfo.cs
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.csproj.CoreCompileInputs.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/ref/linked-lists.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.pdb
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/linked-lists/obj/Debug/net6.0/linked-lists.genruntimeconfig.cache

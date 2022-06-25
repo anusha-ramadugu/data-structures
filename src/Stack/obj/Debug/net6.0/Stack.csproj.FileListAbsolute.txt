@@ -1,0 +1,15 @@
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/bin/Debug/net6.0/Stack
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/bin/Debug/net6.0/Stack.deps.json
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/bin/Debug/net6.0/Stack.runtimeconfig.json
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/bin/Debug/net6.0/Stack.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/bin/Debug/net6.0/ref/Stack.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/bin/Debug/net6.0/Stack.pdb
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.csproj.AssemblyReference.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.AssemblyInfoInputs.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.AssemblyInfo.cs
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.csproj.CoreCompileInputs.cache
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/ref/Stack.dll
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.pdb
+/home/anusha-ramadugu/C_sharp1/c_sharp/data_structures/src/Stack/obj/Debug/net6.0/Stack.genruntimeconfig.cache
