@@ -1,3 +1,5 @@
+using Queue.CustomExceptions;
+
 namespace Queue;
 
 public class Queue<T> : IQueue<T>
@@ -40,7 +42,7 @@ public class Queue<T> : IQueue<T>
     {
         if (_size == 0)
         {
-            throw new Exception("Queue is empty can not delete item");
+            throw new QueueUnderFlowException(nameof(_size),"Queue is empty can not delete item.");
         }
 
         var item = _items[_front];

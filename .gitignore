@@ -1,3 +1,7 @@
 .idea
 *bin
 *debug
+obj
+bin
+*.pdb
+*.dll

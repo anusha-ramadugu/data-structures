@@ -1,4 +1,5 @@
 using System;
+using Queue.CustomExceptions;
 using Xunit;
 
 namespace Queue.Tests;
@@ -41,6 +42,7 @@ public class QueueTest
     {
         var queue = new Queue<int>();
         //should throw queue underflow error
-        Assert.Throws<Exception>(() => queue.Dequeue());
+        var err = Assert.Throws<QueueUnderFlowException>(() => queue.Dequeue());
+        Assert.Equal("Queue is empty can not delete item.", err.Message);
     }
 }
